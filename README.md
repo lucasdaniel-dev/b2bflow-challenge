@@ -131,4 +131,3 @@ python main.py
 - Tratamento explícito de erros HTTP, timeout e conexão
 - Logs estruturados com nível e timestamp
 - Normalização automática do número de telefone (adiciona DDI 55)
-- Tipagem estática com type hints
