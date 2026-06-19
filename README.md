@@ -34,7 +34,7 @@ b2bflow-challenge/
 
 ## Setup
 
-### 1. Clone o repositório
+### 1. Clone o repositório e acesse 
 
 ```bash
 git clone https://github.com/seu-usuario/b2bflow-challenge.git
