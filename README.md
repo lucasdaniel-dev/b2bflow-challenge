@@ -2,7 +2,7 @@
 
 Projeto desenvolvido como parte do processo seletivo para **Estágio em Desenvolvimento Python** na [b2bflow](https://b2bflow.com.br).
 
-O script lê contatos cadastrados no **Supabase** e envia, via **Z-API**, a mensagem personalizada:
+O script lê contatos cadastrados no **Supabase** e envia via **Z-API** a mensagem personalizada:
 
 > *"Olá, `<nome_contato>` tudo bem com você?"*
 
