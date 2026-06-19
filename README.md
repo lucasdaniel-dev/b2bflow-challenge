@@ -41,21 +41,13 @@ git clone https://github.com/seu-usuario/b2bflow-challenge.git
 cd b2bflow-challenge
 ```
 
-### 2. Crie e ative um ambiente virtual
-
-```bash
-python -m venv .venv
-source .venv/bin/activate        # Linux/Mac
-.venv\Scripts\activate           # Windows
-```
-
-### 3. Instale as dependências
+### 2. Instale as dependências
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Configure as variáveis de ambiente
+### 3. Configure as variáveis de ambiente
 
 ```bash
 cp .env.example .env
