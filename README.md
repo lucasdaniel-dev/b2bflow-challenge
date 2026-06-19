@@ -92,15 +92,13 @@ Edite o arquivo `.env` com suas credenciais (veja a seção abaixo).
 ## Variáveis de Ambiente (`.env`)
 
 ```env
-# Supabase
-SUPABASE_URL=https://xxxxxxxxxxx.supabase.co
-SUPABASE_KEY=your_anon_public_key_here
+SUPABASE_URL=https://seu-projeto.supabase.co
+SUPABASE_KEY=sua_chave_anon
 SUPABASE_TABLE=contacts
 
-# Z-API
-ZAPI_INSTANCE_ID=your_instance_id
-ZAPI_TOKEN=your_token
-ZAPI_CLIENT_TOKEN=your_client_token
+ZAPI_INSTANCE_ID=seu_instance_id
+ZAPI_TOKEN=seu_token
+ZAPI_CLIENT_TOKEN=seu_client_token
 ```
 
 > ⚠️ O arquivo `.env` **nunca** deve ser commitado. Ele já está no `.gitignore`.
